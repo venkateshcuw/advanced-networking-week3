@@ -1,0 +1,209 @@
+{
+  "student-host:host": {
+    "hostname": "student-mac",
+    "os": "macos",
+    "collected-at": "2026-11-12T19:11:41.798281+05:30",
+    "interface": [
+      {
+        "name": "anpi0",
+        "type": "other",
+        "oper-status": "up",
+        "mtu": 1500,
+        "ipv4": [],
+        "ipv6": [],
+        "mac": "aa:6a:97:xx:xx:xx"
+      },
+      {
+        "name": "anpi1",
+        "type": "other",
+        "oper-status": "up",
+        "mtu": 1500,
+        "ipv4": [],
+        "ipv6": [],
+        "mac": "aa:6a:97:xx:xx:xx"
+      },
+      {
+        "name": "ap1",
+        "type": "other",
+        "oper-status": "up",
+        "mtu": 1500,
+        "ipv4": [],
+        "ipv6": [],
+        "mac": "8e:f1:dc:xx:xx:xx"
+      },
+      {
+        "name": "awdl0",
+        "type": "virtual",
+        "oper-status": "up",
+        "mtu": 1500,
+        "ipv4": [],
+        "ipv6": [
+          "[IPv6 redacted]/64"
+        ],
+        "mac": "4a:4b:70:xx:xx:xx"
+      },
+      {
+        "name": "bridge0",
+        "type": "virtual",
+        "oper-status": "up",
+        "mtu": 1500,
+        "ipv4": [],
+        "ipv6": [],
+        "mac": "36:25:50:xx:xx:xx"
+      },
+      {
+        "name": "en0",
+        "type": "wifi",
+        "oper-status": "up",
+        "mtu": 1500,
+        "ipv4": [
+          "[IPv4 redacted]/24"
+        ],
+        "ipv6": [
+          "[IPv6 redacted]/64",
+          "[IPv6 redacted]/64",
+          "[IPv6 redacted]/64"
+        ],
+        "mac": "66:be:09:xx:xx:xx"
+      },
+      {
+        "name": "en1",
+        "type": "other",
+        "oper-status": "up",
+        "mtu": 1500,
+        "ipv4": [],
+        "ipv6": [],
+        "mac": "36:25:50:xx:xx:xx"
+      },
+      {
+        "name": "en2",
+        "type": "other",
+        "oper-status": "up",
+        "mtu": 1500,
+        "ipv4": [],
+        "ipv6": [],
+        "mac": "36:25:50:xx:xx:xx"
+      },
+      {
+        "name": "en3",
+        "type": "ethernet",
+        "oper-status": "up",
+        "mtu": 1500,
+        "ipv4": [],
+        "ipv6": [],
+        "mac": "aa:6a:97:xx:xx:xx"
+      },
+      {
+        "name": "en4",
+        "type": "ethernet",
+        "oper-status": "up",
+        "mtu": 1500,
+        "ipv4": [],
+        "ipv6": [],
+        "mac": "aa:6a:97:xx:xx:xx"
+      },
+      {
+        "name": "en6",
+        "type": "ethernet",
+        "oper-status": "up",
+        "mtu": 1500,
+        "ipv4": [],
+        "ipv6": [],
+        "mac": "dc:04:5a:xx:xx:xx"
+      },
+      {
+        "name": "gif0",
+        "type": "virtual",
+        "oper-status": "down",
+        "mtu": 1280,
+        "ipv4": [],
+        "ipv6": []
+      },
+      {
+        "name": "llw0",
+        "type": "virtual",
+        "oper-status": "up",
+        "mtu": 1500,
+        "ipv4": [],
+        "ipv6": [
+          "[IPv6 redacted]/64"
+        ],
+        "mac": "4a:4b:70:xx:xx:xx"
+      },
+      {
+        "name": "lo0",
+        "type": "loopback",
+        "oper-status": "up",
+        "mtu": 16384,
+        "ipv4": [
+          "[IPv4 redacted]/8"
+        ],
+        "ipv6": [
+          "[IPv6 redacted]/128",
+          "[IPv6 redacted]/64"
+        ]
+      },
+      {
+        "name": "stf0",
+        "type": "virtual",
+        "oper-status": "down",
+        "mtu": 1280,
+        "ipv4": [],
+        "ipv6": []
+      },
+      {
+        "name": "utun0",
+        "type": "virtual",
+        "oper-status": "up",
+        "mtu": 1380,
+        "ipv4": [],
+        "ipv6": [
+          "[IPv6 redacted]/64"
+        ]
+      },
+      {
+        "name": "utun1",
+        "type": "virtual",
+        "oper-status": "up",
+        "mtu": 1500,
+        "ipv4": [],
+        "ipv6": [
+          "[IPv6 redacted]/64"
+        ]
+      },
+      {
+        "name": "utun2",
+        "type": "virtual",
+        "oper-status": "up",
+        "mtu": 2000,
+        "ipv4": [],
+        "ipv6": [
+          "[IPv6 redacted]/64"
+        ]
+      },
+      {
+        "name": "utun3",
+        "type": "virtual",
+        "oper-status": "up",
+        "mtu": 1000,
+        "ipv4": [],
+        "ipv6": [
+          "[IPv6 redacted]/64"
+        ]
+      },
+      {
+        "name": "utun4",
+        "type": "virtual",
+        "oper-status": "up",
+        "mtu": 1400,
+        "ipv4": [],
+        "ipv6": []
+      }
+    ],
+    "default-gateway": "[IPv4 redacted]",
+    "dns-server": [
+      "[IPv4 redacted]",
+      "[IPv6 redacted]"
+    ]
+  }
+}

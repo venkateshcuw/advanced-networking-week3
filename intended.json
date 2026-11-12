@@ -1,0 +1,14 @@
+{
+  "student-host:host": {
+    "os": "macos",
+    "interface": [
+      {
+        "name": "en0",
+        "type": "wifi",
+        "oper-status": "up",
+        "mtu": 1500
+      }
+    ],
+    "default-gateway": "[IPv4 redacted]"
+  }
+}
